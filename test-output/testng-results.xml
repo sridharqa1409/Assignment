@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-03T13:04:53 IST" name="Assignment" finished-at="2020-01-03T13:07:22 IST" duration-ms="149442">
+    <groups>
+    </groups>
+    <test started-at="2020-01-03T13:04:53 IST" name="Assignment1" finished-at="2020-01-03T13:05:39 IST" duration-ms="45831">
+      <class name="Tests.Assignment1_Test">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:04:53 IST" name="SetUp" finished-at="2020-01-03T13:05:09 IST" duration-ms="16471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SearchProductInAmazonTest()[pri:1, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:05:09 IST" name="SearchProductInAmazonTest" finished-at="2020-01-03T13:05:28 IST" duration-ms="18983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProductInAmazonTest -->
+        <test-method signature="NavigateToFlipkart()[pri:2, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:05:28 IST" name="NavigateToFlipkart" finished-at="2020-01-03T13:05:33 IST" duration-ms="5119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToFlipkart -->
+        <test-method signature="SearchProductTestInFlipCartTest()[pri:3, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:05:33 IST" name="SearchProductTestInFlipCartTest" finished-at="2020-01-03T13:05:37 IST" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProductTestInFlipCartTest -->
+        <test-method signature="CompareBothPrices()[pri:4, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:05:37 IST" name="CompareBothPrices" finished-at="2020-01-03T13:05:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareBothPrices -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Assignment1_Test@610f7aa]" started-at="2020-01-03T13:05:37 IST" name="teardown" finished-at="2020-01-03T13:05:39 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.Assignment1_Test -->
+    </test> <!-- Assignment1 -->
+    <test started-at="2020-01-03T13:05:41 IST" name="Assignment2" finished-at="2020-01-03T13:07:22 IST" duration-ms="101110">
+      <class name="Tests.Assignment2_Test">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:05:41 IST" name="SetUp" finished-at="2020-01-03T13:06:09 IST" duration-ms="28390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="SearchTheLocation()[pri:1, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:06:09 IST" name="SearchTheLocation" finished-at="2020-01-03T13:06:20 IST" duration-ms="10098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTheLocation -->
+        <test-method signature="ClickOnReviewTest()[pri:2, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:06:20 IST" name="ClickOnReviewTest" finished-at="2020-01-03T13:06:32 IST" duration-ms="12139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnReviewTest -->
+        <test-method signature="MouseOverBubblesTest()[pri:3, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:06:32 IST" name="MouseOverBubblesTest" finished-at="2020-01-03T13:06:46 IST" duration-ms="14790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseOverBubblesTest -->
+        <test-method signature="HotelServiceratingTest()[pri:4, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:06:46 IST" name="HotelServiceratingTest" finished-at="2020-01-03T13:06:56 IST" duration-ms="9211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelServiceratingTest -->
+        <test-method signature="FillReviewDetailsTest()[pri:5, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:06:56 IST" name="FillReviewDetailsTest" finished-at="2020-01-03T13:07:20 IST" duration-ms="24816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillReviewDetailsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Assignment2_Test@3c947bc5]" started-at="2020-01-03T13:07:20 IST" name="teardown" finished-at="2020-01-03T13:07:22 IST" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.Assignment2_Test -->
+    </test> <!-- Assignment2 -->
+  </suite> <!-- Assignment -->
+</testng-results>
