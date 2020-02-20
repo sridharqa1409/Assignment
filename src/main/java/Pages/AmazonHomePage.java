@@ -18,7 +18,7 @@ public class AmazonHomePage extends TestBase {
 
 		PageFactory.initElements(driver, this);
 	}
-
+//aaaa
 	public WebElement Amazon_ClickInputBoxAndSearchEntryGetPrice(String Entry) throws Exception {
 
 		Actions action = new Actions(driver);
