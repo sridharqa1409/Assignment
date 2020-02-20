@@ -9,6 +9,7 @@
           <include name="teardown"/>
           <include name="ClickOnReviewTest"/>
           <include name="MouseOverBubblesTest"/>
+          <include name="SearchTheLocation"/>
           <include name="HotelServiceratingTest"/>
           <include name="FillReviewDetailsTest"/>
         </methods>
